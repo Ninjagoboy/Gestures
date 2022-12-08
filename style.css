@@ -1,0 +1,32 @@
+body
+{
+  color: rgb(0, 0, 0);
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #Result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#Result_object ,#Result_Gestures 
+{
+  color: black;
+}
+.object_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 19px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
